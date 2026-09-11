@@ -1,16 +1,21 @@
 body {
-    background-color: #2b0a0a; /* vermelho bem escuro, tipo veludo */
-    color: #ffe4ec; /* rosinha claro pro texto */
-    font-family: Arial, sans-serif; /* fonte simples e limpa */
+    background-color: #2b0a0a;
+    color: #ffe4ec;
+    font-family: 'Trebuchet MS', sans-serif;
 }
 
 h1 {
-    color: #ff2e63; /* vermelho vibrante, tipo o "Red" delas */
+    color: #ff2e63;
     font-size: 75px;
-    text-align: center; /* centraliza o título */
+    text-align: center;
+    font-family: 'Georgia', serif;
+    letter-spacing: 3px;
 }
 
 h2 {
-    color: #ff85a2; /* rosa suave, tipo o "Velvet" */
-    text-align: center; /* centraliza os nomes dos grupos */
+    color: #ff85a2;
+    text-align: center;
+    font-family: 'Georgia', serif;
+    font-size: 40px;
+    letter-spacing: 2px;
 }
