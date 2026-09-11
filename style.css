@@ -1,8 +1,16 @@
 body {
-    background-color: rgb(100, 0, 0);
+    background-color: #2b0a0a; /* vermelho bem escuro, tipo veludo */
+    color: #ffe4ec; /* rosinha claro pro texto */
+    font-family: Arial, sans-serif; /* fonte simples e limpa */
 }
 
 h1 {
-    color: rgb(0, 0, 0);
+    color: #ff2e63; /* vermelho vibrante, tipo o "Red" delas */
     font-size: 75px;
+    text-align: center; /* centraliza o título */
+}
+
+h2 {
+    color: #ff85a2; /* rosa suave, tipo o "Velvet" */
+    text-align: center; /* centraliza os nomes dos grupos */
 }
